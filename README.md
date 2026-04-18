@@ -26,4 +26,4 @@ Cross-cutting guides: **inspecting the tree**, **props/state/hooks**, and **prof
 | [React 18](./react-18/README.md) | [react-18](./react-18/README.md) | `createRoot`, concurrent features, new hooks, Suspense |
 | [React 19](./react-19/README.md) | [react-19](./react-19/README.md) | `use`, actions, forms, metadata, compiler |
 
-Everything here is **documentation only**—no runnable app in this folder.
+Everything in this repository is **documentation only**—no runnable app.
